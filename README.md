@@ -1,0 +1,2 @@
+# LXPodTestxxx
+初步测试自已写一框架到pod上，目的能通过cocoapods导入自已的框架到自已的项目中
